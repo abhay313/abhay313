@@ -18,7 +18,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 
 - 🔭 I’m currently a final year student looking for oppurtunity.
-- 🌱 I’m am a ReactJs Developer with knowledge of MERN.
+- 🌱 I’m am a Backend Developer.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/abhay313)
 - 💬 Ask me about **Node.js, Java & Open Source**
 - 📫 How to reach me **abhayiiitk@gmail.com**
