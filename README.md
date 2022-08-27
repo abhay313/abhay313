@@ -18,20 +18,22 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 
 - 🔭 I’m currently a final year student looking for oppurtunity.
-- 🌱 I’m am a Backend Developer.
+- 🌱 I’m am a Frontend Developer.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/abhay313)
 - 💬 Ask me about **Node.js, Java & Open Source**
 - 📫 How to reach me **abhayiiitk@gmail.com**
 
 ### Tech Stack
-![java](https://user-images.githubusercontent.com/54148372/125886743-a5947609-b59f-4060-af90-b9cdab8e7b4a.png)
-![html](https://user-images.githubusercontent.com/54148372/125886722-dce1a935-b4e1-4213-b4a4-9037d5b1d0bf.png)
-![css](https://user-images.githubusercontent.com/54148372/125886716-7eaf9e8b-61b7-44c4-b2d6-6c08f2d01ca5.png)
-![javascript](https://user-images.githubusercontent.com/54148372/125886741-0620aad6-b3bb-4edc-a5e7-8e8a520df57a.png)
-![reactjs](https://user-images.githubusercontent.com/54148372/125886728-e9762649-0b48-4602-9d3e-b1b1220c789c.png)
-![mysql](https://user-images.githubusercontent.com/54148372/125886708-287f5626-3ec8-41a8-bb85-5d89e245ff09.png)
 
-
+<p float="left">
+<img src="https://miro.medium.com/max/1400/1*mDKusLBkGKBWW4aycK4PCA.png" alt="C++" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/54148372/125886743-a5947609-b59f-4060-af90-b9cdab8e7b4a.png" alt="Java" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/54148372/125886722-dce1a935-b4e1-4213-b4a4-9037d5b1d0bf.png" alt="HTML" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/54148372/125886716-7eaf9e8b-61b7-44c4-b2d6-6c08f2d01ca5.png" alt="CSS" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/54148372/125886741-0620aad6-b3bb-4edc-a5e7-8e8a520df57a.png" alt="Javascript" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/54148372/125886728-e9762649-0b48-4602-9d3e-b1b1220c789c.png" alt="React.js" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/54148372/125886708-287f5626-3ec8-41a8-bb85-5d89e245ff09.png" alt="MySQL" width="200" height="200"/>
+</p>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay313&theme=blue-green)
 
