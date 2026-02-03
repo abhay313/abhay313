@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh Yadav</h1>
-<h3 align="center">Full-Stack Web Developer | 3.7+ Years Experience</h3>
+<h3 align="center">Software Developer | 3.7+ Years Experience</h3>
 
 <p align="center">
 I build scalable, clean, and reliable web applications with a strong focus on performance, maintainability, and real-world problem solving.
