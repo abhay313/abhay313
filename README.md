@@ -51,13 +51,10 @@ I build scalable, clean, and reliable web applications with a strong focus on pe
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay313&layout=compact&theme=blue-green" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhay313&layout=compact&theme=blue-green&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay313&show_icons=true&theme=blue-green" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay313&show_icons=true&theme=blue-green&hide_border=true)
+
 
 ---
 
